@@ -14,9 +14,7 @@ setup(
     keywords=['linear', 'algebra', 'linear algebra', 'linalg', 'lin-alg', 'linearalgebra', 'eigen', 'eigenvalue', 'eigenvector'],
     classifiers=[
         "Programming Language :: Python :: 3",
-        "Operating System :: Unix",
-        "Operating System :: MacOS :: MacOS X",
-        "Operating System :: Microsoft :: Windows",
+        "Operating System :: OS Independent",
         "License :: GPL-3.0 License"
     ]
 )
