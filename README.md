@@ -64,6 +64,8 @@ For example:
 | `eigenvecs` | Eigenvectors corresponding to the respective eigenvalues |
 | `svd` | Singular value decomposed matrices `u`, `sigma`, and `v_transpose` |
 
+Along with these, addition and multiplication of 2 matrices is also supprted using the inbuilt operators `+` and `*` respectively.
+
 ## Issues
 
 Python's decimal arithmetic often results in incorrect answers. In some cases, approximated output might be sufficient, however in others, errors may be raised.
