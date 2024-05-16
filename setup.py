@@ -1,7 +1,7 @@
 import os
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1'
+VERSION = '0.0.3'
 DESCRIPTION = 'A package for all things linear algebra'
 
 here = os.path.abspath(os.path.dirname(__file__))
