@@ -1,4 +1,4 @@
-# lin-alg
+# nullity
 
 A Python package for all things linear algebra, built in vanilla python3  
 Built during MAT-1001 / Linear Algebra at Ashoka University.
@@ -8,13 +8,13 @@ Built during MAT-1001 / Linear Algebra at Ashoka University.
 The package is available on PyPI:
 
 ```ps
-pip install lin_alg
+pip install nullity
 ```
 
 To start using, simply import the package in your Python file:
 
 ```py
-from lin_alg import Matrix
+from nullity import Matrix
 ```
 
 ## Usage
